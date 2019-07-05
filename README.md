@@ -1,7 +1,5 @@
 # Pygame Kaboom!
 
----
-
 ![](assets/images/game-preview.gif)
 
 ---
